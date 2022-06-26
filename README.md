@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-
-<script>
-  console.log("TEST");
-</script>
-<canvas></canvas>
-
 <!--
 **Pi-Bouf/pi-bouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
